@@ -1,0 +1,76 @@
+{
+   "user": "user@domain.com",
+   "role": "GSM",
+   "experience": "MANAGER_EXPERIENCE",
+   "feature": "MANAGER_DASHBOARD",
+   "roleExperienceId": 2,
+   "featureId": 1,
+   "userPermissions": [
+      {
+         "profileName": "MANAGER_GSM_View",
+         "permissions": {
+            "SVG_RDW_PS_RC_RCC": [
+               "View"
+            ],
+            "SVG_RDW_ES_COM": [
+               "View"
+            ],
+            "SVG_RDW_AR": [
+               "View"
+            ],
+            "SVG_RDW_FNS_LLDD": [
+               "View"
+            ],
+            "SVG_RDW_FNS_ODMF": [
+               "View"
+            ],
+            "SVG_RDW_FNS_LTM_AI_O_DD_ST": [
+               "View"
+            ],
+            "SVG_RDW_ES_AI_CA_NLE_O_DD_ST": [
+               "View"
+            ],
+            "SVG_RDW_CS_SS": [
+               "View"
+            ]
+         }
+      },
+      {
+         "profileName": "MANAGER_GSM_Edit",
+         "permissions": {
+            "SVG_RDW_PS_RC_RCC": [
+               "Create",
+               "Update"
+            ],
+            "SVG_RDW_ES_COM": [
+               "Create",
+               "Update"
+            ],
+            "SVG_RDW_AR": [
+               "Create",
+               "Update"
+            ],
+            "SVG_RDW_FNS_LLDD": [
+               "Create",
+               "Update"
+            ],
+            "SVG_RDW_FNS_ODMF": [
+               "Create",
+               "Update"
+            ],
+            "SVG_RDW_FNS_LTM_AI_O_DD_ST": [
+               "Create",
+               "Update"
+            ],
+            "SVG_RDW_ES_AI_CA_NLE_O_DD_ST": [
+               "Create",
+               "Update"
+            ],
+            "SVG_RDW_CS_SS": [
+               "Create",
+               "Update"
+            ]
+         }
+      }
+   ]
+}
